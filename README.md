@@ -31,7 +31,7 @@ This project includes:
 ![Dashboard 1](Dashborad1)
 
 ### Dashboard 2: Sales Trends & Item Insights
-![Dashboard 2](Screenshot2.png)
+![Dashboard 2](Dashboard2)
 
 ## 🔧 Technologies Used
 - Tableau Desktop: Used for data visualization and dashboard creation.
