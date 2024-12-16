@@ -28,7 +28,7 @@ This project includes:
 
 ## 📈 Screenshots
 ### Dashboard 1: Outlets & Sales Insights
-![Dashboard 1](Screenshot1.png)
+![Dashboard 1](Screenshot 2024-12-17 001028.png)
 
 ### Dashboard 2: Sales Trends & Item Insights
 ![Dashboard 2](Screenshot2.png)
